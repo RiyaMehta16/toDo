@@ -1,3 +1,6 @@
+Just a project to learn about states in redux toolkit
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
